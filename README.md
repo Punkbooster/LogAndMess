@@ -1,0 +1,4 @@
+LogAndMess
+==========
+
+Log Example
